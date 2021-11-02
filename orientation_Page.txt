@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang='en' class=''>
+
+<head>
+
+  <meta charset='UTF-8'>
+  <title>CodePen Demo</title>
+
+  <meta name="robots" content="noindex">
+
+  <link rel="shortcut icon" type="image/x-icon" href="https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico">
+  <link rel="mask-icon" href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111">
+  <link rel="canonical" href="https://codepen.io/jcampisi13/pen/MWvmGeP?editors=1100">
+
+  
+  
+
+  <style class="INLINE_PEN_STYLESHEET_ID">
+    #navbar{
+  margin: 0;
+  padding: 0px; 
+  background-color:#3cb371;
+  text-align:center;
+  position:fixed;
+  top:0;
+  right:0;
+  left:0;
+  border-bottom-style:ridge;
+}
+
+#navlist{
+  list-style-type:none;
+
+}
+#divnav{
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+
+}
+.navlist{
+  display:inline;
+  padding: 5px;
+
+}
+  </style>
+
+  
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeConsoleRunner-d8236034cc3508e70b0763f2575a8bb5850f9aea541206ce56704c013047d712.js"></script>
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeRefreshCSS-4793b73c6332f7f14a9b6bba5d5e62748e9d1bd0b5c52d7af6376f3d1c625d7e.js"></script>
+<script src="https://cpwebassets.codepen.io/assets/editor/iframe/iframeRuntimeErrors-4f205f2c14e769b448bcf477de2938c681660d5038bc464e3700256713ebe261.js"></script>
+</head>
+
+<body>
+  <head>
+  <div id="navdiv">
+  <nav id="navbar">
+  <ul id="navlist">
+    <li class="navlist"><a href=#"WellnessScreening">Wellness Screening</a></li>
+    <li class="navlist"><a href="#OrientationDay">Orientation Day</a></li>
+    <li class="navlist"><a href="#PostOrientation">Post Orientation</a></li>
+    <li class="navlist"><a href="#FAQ">FAQ</a></li>
+    <li class="navlist"><a href="ContactInformation">Contact</a></li>
+    </ul>
+    </nav>
+  </div>
+  <h1>Your logo & Company Name</h1>
+</head>
+<h2> Welcome to New Hire Orientation</h2>
+<p>To assist with your onboarding process, we have highlighted and organized some key information to reference and assist you along your journey to us. </p>
+<br></br>
+<section id="WellnessScreening">Wellness Screening</section>
+<p>Background Auth, Wellness appt/Quest, RedCarpet(issues), what to bring </p>
+<br></br>
+<section id="OrientationDay">Orientation Day
+<p>Start time, location, items to complete before, parking, etc </p></section>
+<br></br>
+<section id="PostOrientation">Post Orientation
+<p>Please contact your manager for what time and where to report to your post orientation day. </p></section>
+<br></br>
+<section id="FAQ">FAQ
+<p>Dress Code- link to dress code document </p>
+<p>Parking Information- link to parking</p>
+<p>COVID Protocals You must wear a mask at all times in the hospital. If you feel ill orientation day, please report to CONTACT INFORMATION. We require the COVID vaccine to be employed. Please bring your COVID vaccine card to your wellness screening appointment</p>
+</section>
+<br></br>
+<section id="ContactInformation">Contact Information
+<p>HR, Payroll, etc </p></section>
+  
+
+
+  
+<script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-1b93190375e9ccc259df3a57c1abc0e64599724ae30d7ea4c6877eb615f89387.js"></script>
+  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-d1104e71-4224-a74e-65e6-42ae676b8ed3" crossorigin></script>
+</body>
+
+</html>
