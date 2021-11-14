@@ -20,30 +20,65 @@
     #navbar{
   margin: 0;
   padding: 0px; 
-  background-color:#3cb371;
-  text-align:center;
+  background-color: orangered;
+  color:#0a0a0a;
+  text-align:left;
   position:fixed;
   top:0;
   right:0;
   left:0;
+  
   border-bottom-style:ridge;
 }
 
 #navlist{
   list-style-type:none;
-
 }
 #divnav{
     position: absolute;
     white-space: nowrap;
     overflow: hidden;
-
 }
+
 .navlist{
   display:inline;
   padding: 5px;
+}
+.navlink{
+  text-decoration: none;
+  color: white;
+  font-weight:bold;
+  font-size: 15px;
 
 }
+a:hover {
+  font-size: 125%;
+
+}
+h1{
+  margin:100px;
+}
+h2{
+  text-align: center;
+  color: darkorange;
+  
+}
+body{
+  font-family: sans-serif;
+}
+.subheading{
+  text-align:center;
+  color:darkorange;
+  font-weight:bold;
+  font-size: 20px;
+}
+#address{
+  list-style-type:none;
+}
+.quest{
+  font-style: italic;
+}
+
   </style>
 
   
@@ -53,46 +88,69 @@
 </head>
 
 <body>
-  <head>
+  //Fix so top of page is below fixed navigation bar; When you click links the section start behind the navigation bar
+//I9 document link may not work yet...need to fix
+<head>
   <div id="navdiv">
   <nav id="navbar">
   <ul id="navlist">
-    <li class="navlist"><a href=#"WellnessScreening">Wellness Screening</a></li>
-    <li class="navlist"><a href="#OrientationDay">Orientation Day</a></li>
-    <li class="navlist"><a href="#PostOrientation">Post Orientation</a></li>
-    <li class="navlist"><a href="#FAQ">FAQ</a></li>
-    <li class="navlist"><a href="ContactInformation">Contact</a></li>
+    <li class= navlist ><a class="navlink" href="#WellnessScreening">Wellness Screening</a></li>
+    <li class="navlist"><a class="navlink" href="#OrientationDay">Orientation Day</a></li>
+    <li class="navlist"><a class="navlink" href="#PostOrientation">Post Orientation</a></li>
+    <li class="navlist"><a class="navlink" href="#FAQ">FAQ</a></li>
+    <li class="navlist"><a class="navlink" href="#ContactInformation">Contact</a></li>
     </ul>
     </nav>
   </div>
-  <h1>Your logo & Company Name</h1>
+  <h1>(Logo & Shirley Ryan AbilityLab)</h1>
 </head>
 <h2> Welcome to New Hire Orientation</h2>
-<p>To assist with your onboarding process, we have highlighted and organized some key information to reference and assist you along your journey to us. </p>
+<body>
+<p>To assist with your onboarding process, we have highlighted and organized some key information items to reference and assist you along your journey. </p>
 <br></br>
-<section id="WellnessScreening">Wellness Screening</section>
-<p>Background Auth, Wellness appt/Quest, RedCarpet(issues), what to bring </p>
+<section class="subheading" id="WellnessScreening">Wellness Screening</section>
+<p>You have been scheduled for your wellness screening appointment. This in an important step in your onboarding process. We will complete your onboarding documents, take your ID picture, and complete your wellness check.  <br></br>
+Prior to your wellness appointment we ask you to complete the following items:
+<ul><li>Application</li>
+  <li>Background Check Authorization: Sent from our vendor Accurate</li>
+  <li>All Red Carpet Tasks/Onboarding Documents: Link emailed</li>
+  <li>Prepare required documents needed to collect at Wellness appointment.(listed below) </li>
+  <li>Prepare for your ID picture to be taken during this appointment</li>
+  </ul>
+Your wellness appointment is scheduled with your Recruiter. You will arrive at the 
+  Location: <ul><li id="address">355 East Erie Street</li> <li id="address">Chicago, IL 60611</li></ul>
+  Parking is available in the building for $11.Enterence is located on Ontario(?). 
+When you arrive you will check in at the 10th Floor Sky Lobby to recieve your badge. 
+  What to bring:
+<ul><li>2 Government forms of ID (<a href="https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents">Click here for acceptable I9 Documents</a>)</li>
+  <li>Covid Vaccine card</li>
+  <li>CPR/BLS card (if in clinical role or job description requires)</li>
+  <li>Professional licenses and/or certifications if applicable</li>
+  </ul>
+  <br></br><p>
+<p class="quest">Special notes for those completing Quest Diagnostic Lab Work:</p>
+<p class="quest">If you have arranged with your Recruiter to complete your appointment at Quest Diagnostic Labs please either arrive at 7:45am Orientation Day or arrange a time prior to your start date to visit HR. They will collect your required documents listed above, verify your file is compliant, take your ID badge picture, and assist with your uniform selection at that time.</p>
 <br></br>
-<section id="OrientationDay">Orientation Day
-<p>Start time, location, items to complete before, parking, etc </p></section>
+<section class="subheading" id="OrientationDay">Orientation Day </section>
+<p>Start time, location, items to complete before, parking, etc </p>
 <br></br>
-<section id="PostOrientation">Post Orientation
-<p>Please contact your manager for what time and where to report to your post orientation day. </p></section>
+<section class="subheading" id="PostOrientation">Post Orientation </section>
+<p>Please contact your manager for what time and where to report to your post orientation day. </p>
 <br></br>
-<section id="FAQ">FAQ
+<section class="subheading" id="FAQ"> FAQ</section>
 <p>Dress Code- link to dress code document </p>
 <p>Parking Information- link to parking</p>
 <p>COVID Protocals You must wear a mask at all times in the hospital. If you feel ill orientation day, please report to CONTACT INFORMATION. We require the COVID vaccine to be employed. Please bring your COVID vaccine card to your wellness screening appointment</p>
-</section>
 <br></br>
-<section id="ContactInformation">Contact Information
-<p>HR, Payroll, etc </p></section>
+<section class="subheading" id="ContactInformation">Contact Information </section>
+<p>HR, Payroll, Benefits, Manager, Employee Health </p>
+</body>
   
 
 
   
 <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-1b93190375e9ccc259df3a57c1abc0e64599724ae30d7ea4c6877eb615f89387.js"></script>
-  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-d1104e71-4224-a74e-65e6-42ae676b8ed3" crossorigin></script>
+  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-486af3aa-9bd1-0cae-51e0-4e9559778d66" crossorigin></script>
 </body>
 
 </html>
