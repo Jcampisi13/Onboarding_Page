@@ -104,12 +104,13 @@ body{
   </div>
   <h1>(Logo & Shirley Ryan AbilityLab)</h1>
 </head>
-<h2> Welcome to New Hire Orientation</h2>
+<h2> Welcome to Shirley Ryan AbilityLab</h2>
 <body>
 <p>To assist with your onboarding process, we have highlighted and organized some key information items to reference and assist you along your journey. </p>
-<br></br>
+<br />
 <section class="subheading" id="WellnessScreening">Wellness Screening</section>
-<p>You have been scheduled for your wellness screening appointment. This in an important step in your onboarding process. We will complete your onboarding documents, take your ID picture, and complete your wellness check.  <br></br>
+<p>You have been scheduled for your wellness screening appointment. This in an important step in your onboarding process. We will complete your onboarding documents, take your ID picture, and complete your wellness check.  
+  <br />
 Prior to your wellness appointment we ask you to complete the following items:
 <ul><li>Application</li>
   <li>Background Check Authorization: Sent from our vendor Accurate</li>
@@ -127,16 +128,25 @@ When you arrive you will check in at the 10th Floor Sky Lobby to recieve your ba
   <li>CPR/BLS card (if in clinical role or job description requires)</li>
   <li>Professional licenses and/or certifications if applicable</li>
   </ul>
-  <br></br><p>
+<br /><p>
 <p class="quest">Special notes for those completing Quest Diagnostic Lab Work:</p>
 <p class="quest">If you have arranged with your Recruiter to complete your appointment at Quest Diagnostic Labs please either arrive at 7:45am Orientation Day or arrange a time prior to your start date to visit HR. They will collect your required documents listed above, verify your file is compliant, take your ID badge picture, and assist with your uniform selection at that time.</p>
-<br></br>
+<br />
 <section class="subheading" id="OrientationDay">Orientation Day </section>
-<p>Start time, location, items to complete before, parking, etc </p>
-<br></br>
-<section class="subheading" id="PostOrientation">Post Orientation </section>
-<p>Please contact your manager for what time and where to report to your post orientation day. </p>
-<br></br>
+<p>
+ Start time: 8:15 am arrival <br />
+ Location: 355 East Erie Street; Chicago, IL <br />
+ Parking: Garage parking is available in the building for $11. Entrance is located off of Ontario.<br />
+ Dress Code: Business casual<br />
+ Masks required while in the building. <br />
+ Breakfast and lunch will be provided. 
+  </p>
+  <br />
+<section class="subheading" id="PostOrientation">Post Day 1 Orientation </section>
+  <p>Your manager will be in contact with you to provide details on your schedule, where to report, and what time after orientation. If you have not heard from your manager. Please contact your Recruiter.</p>
+  Attention RNs: If you are a RN you will are required to attend additional orientation (Provide details) </p>
+  Attention OT/ PT/ SLPs: If you are a Physical Therapist, Occupational Therapist, or Speech and Language Pathologist you will be required to attend a Day 2 and Day 3 orientation. Start time is 8am Tuesday and Wednesday. Allied Health Orientation Schedule details will be provided during Day 1 Orientation.  </p>
+<br />
 <section class="subheading" id="FAQ"> FAQ</section>
 <p>Dress Code- link to dress code document </p>
 <p>Parking Information- link to parking</p>
@@ -150,7 +160,7 @@ When you arrive you will check in at the 10th Floor Sky Lobby to recieve your ba
 
   
 <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-1b93190375e9ccc259df3a57c1abc0e64599724ae30d7ea4c6877eb615f89387.js"></script>
-  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-486af3aa-9bd1-0cae-51e0-4e9559778d66" crossorigin></script>
+  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-b9cd08dd-0b95-7301-db60-7feaa77221aa" crossorigin></script>
 </body>
 
 </html>
