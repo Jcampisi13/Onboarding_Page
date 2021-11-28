@@ -120,6 +120,7 @@ Prior to your wellness appointment we ask you to complete the following items:
   </ul>
 Your wellness appointment is scheduled with your Recruiter. You will arrive at the 
   Location: <ul><li id="address">355 East Erie Street</li> <li id="address">Chicago, IL 60611</li></ul>
+  <p>Upon arrival please go to the 10th Floor Sky Lobby to receive your visitor badge.  Upon receiving your badge, please report to the Human Resources Office on the 12th Floor. <br>
   Parking is available in the building for $11.Enterence is located on Ontario(?). 
 When you arrive you will check in at the 10th Floor Sky Lobby to recieve your badge. 
   What to bring:
@@ -128,8 +129,12 @@ When you arrive you will check in at the 10th Floor Sky Lobby to recieve your ba
   <li>CPR/BLS card (if in clinical role or job description requires)</li>
   <li>Professional licenses and/or certifications if applicable</li>
   </ul>
-<br /><p>
-<p class="quest">Special notes for those completing Quest Diagnostic Lab Work:</p>
+<br ></p>
+<p><b>COVID-19 Safety:</b> Please bring a mask to wear for your time at the hospital. We ask that you wear the mask from your car until you return to your car. If you do not have one, please let us know and we will be sure to provide one. We also take temperatures of all visitors, guests, patients, and employees in addition to asking a series of questions regarding any sign of COVID-19 symptoms and travel to exposed areas. Please advise if you have any concerns. </p>
+  <p>Feel free to follow up with additional questions or concerns. Use Contact menu for more contact information.</p>
+<a href="file:///C:/Users/jcamp/OneDrive/Documents/Wellness%20Screening%20Day.pdf">Click for more Wellness Screening Information </a>
+
+<p class="quest"><b>Special notes for those completing Quest Diagnostic Lab Work:</p></b>
 <p class="quest">If you have arranged with your Recruiter to complete your appointment at Quest Diagnostic Labs please either arrive at 7:45am Orientation Day or arrange a time prior to your start date to visit HR. They will collect your required documents listed above, verify your file is compliant, take your ID badge picture, and assist with your uniform selection at that time.</p>
 <br />
 <section class="subheading" id="OrientationDay">Orientation Day </section>
@@ -141,6 +146,7 @@ When you arrive you will check in at the 10th Floor Sky Lobby to recieve your ba
  Masks required while in the building. <br />
  Breakfast and lunch will be provided. 
   </p>
+<p> If you unfortunately feel ill on orientation day, please <b><a href="https://1drv.ms/w/s!Ar9CdNZJl6-rjgWvFGTzElCsTdGT?e=95bEpE">click here for instructions</b></a></p>
   <br />
 <section class="subheading" id="PostOrientation">Post Day 1 Orientation </section>
   <p>Your manager will be in contact with you to provide details on your schedule, where to report, and what time after orientation. If you have not heard from your manager. Please contact your Recruiter.</p>
@@ -148,19 +154,34 @@ When you arrive you will check in at the 10th Floor Sky Lobby to recieve your ba
   Attention OT/ PT/ SLPs: If you are a Physical Therapist, Occupational Therapist, or Speech and Language Pathologist you will be required to attend a Day 2 and Day 3 orientation. Start time is 8am Tuesday and Wednesday. Allied Health Orientation Schedule details will be provided during Day 1 Orientation.  </p>
 <br />
 <section class="subheading" id="FAQ"> FAQ</section>
-<p>Dress Code- link to dress code document </p>
-<p>Parking Information- link to parking</p>
-<p>COVID Protocals You must wear a mask at all times in the hospital. If you feel ill orientation day, please report to CONTACT INFORMATION. We require the COVID vaccine to be employed. Please bring your COVID vaccine card to your wellness screening appointment</p>
+<p><b>Dress Code</b> </p>
+  <p><a href="file:///C:/Users/jcamp/OneDrive/Documents/Dress%20Code%20Guidelines.pdf"> Please click link for employee Dress Code Guidelines </a></p>
+<p> Dress code for your wellness screening appointment and orientation is business casual.</p>
+<p> Note for staff that wear uniforms, you will try on and select uniform sizes during your wellness appointment. Typically they are available during your Day 1 orientation unless otherwise instructed. </p>
+  <p><b>Parking Information</b> </p>
+ <p>   <a href "#"> See link for Parking information </a> </p>
+  <p>Parking for you wellness screening and orientation days are available in the building for $11 with validation. The enterance is located off Ontario.</p>
+<p><b>COVID Protocals </b></p>
+<p>Since the global onset of the COVID-19, we are taking proactive steps to minimize risks. As we prepare to welcome you to SRALAB for your New Hire Orientation, protecting the health and wellness of our patients and staff is our first priority.   </p>
+<ul>
+  <li>You must wear a mask at all times in the hospital. </li>
+  <li>If you feel ill on orientation day, please <b><a href="https://1drv.ms/w/s!Ar9CdNZJl6-rjgWvFGTzElCsTdGT?e=95bEpE">click here for instructions</a>.</b> </li> 
+  <li>We require the COVID vaccine to be employed. Please bring your COVID vaccine card to your wellness screening appointment or to day 1 orientation.</li></ul></p>
 <br></br>
 <section class="subheading" id="ContactInformation">Contact Information </section>
-<p>HR, Payroll, Benefits, Manager, Employee Health </p>
-</body>
+<p><b>Human Resources Office</b>: 312-238-6270 </p>
+<p><b>Payroll</b>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="feae9f878c919292be8d8c9f929f9cd0918c99">[email&#160;protected]</a> </p>
+<p><b>Benefits</b>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d89abdb6bdbeb1acab98abaab9b4b9baf6b7aabf">[email&#160;protected]</a> *Please note benefits will have a presentation during orientation to address many questions.</p> 
+<p><b>Employee Health</b>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="efaaa7bcaf9c9d8e838e8dc1809d88">[email&#160;protected]</a> </p>
+<p><b>Manager</b>: Please note email address from your Offer Letter which was emailed to you with your manager. </p> 
+<p><b>Recruiter</b>: Please note previous communication which should include your Recruiter. </p> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
   
 
 
   
 <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-1b93190375e9ccc259df3a57c1abc0e64599724ae30d7ea4c6877eb615f89387.js"></script>
-  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-b9cd08dd-0b95-7301-db60-7feaa77221aa" crossorigin></script>
+  <script  src="https://cdpn.io/cp/internal/boomboom/pen.js?key=pen.js-38910213-c39b-0b4b-4ce4-efb4e3f3605c" crossorigin></script>
 </body>
 
 </html>
